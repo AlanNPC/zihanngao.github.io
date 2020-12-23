@@ -1,7 +1,7 @@
 ## About me
 
 
-I am now a senior undergraduate student in the Department of Information Management and School of Psychology (double degree) of [Peking University](https://english.pku.edu.cn/). My research interests lie in interactive information retrieval, human-computer interaction and computer-supported cooperative work, especially in combining cognitive science and information science to improve interaction quality. ```markdown I am looking forward a Ph.D. position. ```
+I am now a senior undergraduate student in the Department of Information Management and School of Psychology (double degree) of [Peking University](https://english.pku.edu.cn/). My research interests lie in interactive information retrieval, human-computer interaction and computer-supported cooperative work, especially in combining cognitive science and information science to improve interaction quality. ```I am looking for a Ph.D. position. ```
 
 
 ## Pubilications
