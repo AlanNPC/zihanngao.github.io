@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/zihanngao/zihanngao.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am now a senior undergraduate student in the Department of Information Management and School of Psychology (double degree) of [Peking University](https://english.pku.edu.cn/). My research interests lie in interactive information retrieval, human-computer interaction and computer-supported cooperative work, especially in combining cognitive science and information science to improve interaction quality. ```markdown I am looking forward a Ph.D. position. ```
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pubilications
+[1]	Jieli Liu, **Zihan Gao**, Pengyi Zhang. "Exploring How Topic Characteristics Influence Online Discussion Quality." _In Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology, 2020_.(poster)[pdf](zihanngao.github.io/publications/Exploring How Topic Characteristics Influence Online Discussion Quality.pdf)
 
-```markdown
-Syntax highlighted code block
+[2] Jiepu Jiang, Yuhan Wang, **Zihan Gao**. "Categorizing User Messages in Text-based Informational Conversations." [pdf](zihanngao.github.io/publications/Categorizing User Messages in Text-based Informational Conversations.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[3] Zihan Gao, Pengyi Zhang. "Examining the Influence of perceived team closeness and members' thinking style on collaborative information behaviors." Rejectted by iConference 2021, plan to submit to CSCW 2021(1/15/2021). [pdf](zihanngao.github.io/publications/Examining the Influence of perceived team closeness and members' thinking style on collaborative information behaviors.pdf)
 
-- Bulleted
-- List
+[4] Zihan Gao, Weizhen Wei, Shijuan Li. "The elderly's preference towards online health information adoption during Covid-19 outbreak." Rejectted by iConference 2021, plan to submit to CSCW 2021(1/15/2021). [pdf](zihanngao.github.io/publications/The elderly's preference towards online health information adoption during Covid-19 outbreak.pdf) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zihanngao/zihanngao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Research Experiences
