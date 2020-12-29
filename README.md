@@ -9,8 +9,8 @@ I am now a senior undergraduate student in the Department of Information Managem
 
 [2] Jiepu Jiang, Yuhan Wang, **Zihan Gao**. "Categorizing User Messages in Text-based Informational Conversations." [pdf](zihanngao.github.io/publications/fullpaper_3.pdf)
 
-[3] **Zihan Gao**, Pengyi Zhang. "Examining the Influence of perceived team closeness and members' thinking style on collaborative information behaviors." Rejectted by iConference 2021, plan to submit to CSCW 2021(1/15/2021). [pdf](zihanngao.github.io/publications/fullpaper_1.pdf)
+[3] **Zihan Gao**, Pengyi Zhang. "Examining the Influence of perceived team closeness and members' thinking style on collaborative information behaviors." Plan to submit to CSCW 2021(1/15/2021). [pdf](zihanngao.github.io/publications/fullpaper_1.pdf)
 
-[4] **Zihan Gao**, Weizhen Wei, Shijuan Li. "The elderly's preference towards online health information adoption during Covid-19 outbreak." Rejectted by iConference 2021, plan to submit to CSCW 2021(1/15/2021). [pdf](zihanngao.github.io/publications/fullpaper_2.pdf) 
+[4] **Zihan Gao**, Weizhen Wei, Shijuan Li. "The elderly's preference towards online health information adoption during Covid-19 outbreak." Plan to submit to ASIS&T 2021. [pdf](zihanngao.github.io/publications/fullpaper_2.pdf) 
 
 
